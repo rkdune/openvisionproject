@@ -1,29 +1,17 @@
 # OpenVisionProject
 
-⚠️ **Repository Status**: In Progress  
-_This repository is currently being organized as we centralize multiple codebases and files._
+⚠️ this repo is in progress as we are centralizing multiple codebases and files
 
 ## Our Purpose
 Building a vision of a blindness-free world using the power of technology.
 
-## How to Use This Repository
+## Using this repository
+* download the code of our **v1 mobile app** to run on your own device (pixel 6a optimized)
+* view the code of our **v2 mobile app** (coming to android app store soon!)
+* download our **CAD files** to 3D print your own device
+* download our **Raspberry Pi code** to run your own device
+* download our **models** and training scripts
+* download our pre-processed **data** to train your own models
+* more coming soon - we are constantly building, shipping, and improving!
 
-### Mobile Applications
-- **Version 1 App**
-  - **Download**: Available for personal use.
-  - **Optimization**: Pixel 6a.
-- **Version 2 App**
-  - **Status**: Coming soon to the Android App Store.
-
-### Hardware
-- **CAD Files for 3D Printing**
-- **Raspberry Pi Integration**
-
-### Machine Learning Models
-- Download Our Models
-
-### Ongoing Projects
-Stay tuned for updates. We are constantly building, shipping, and improving.
-
-## License
-[MIT License](#)
+More coming soon - we are constantly building, shipping, and improving!
