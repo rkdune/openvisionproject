@@ -12,6 +12,5 @@ Building a vision of a blindness-free world using the power of technology.
 * download our **Raspberry Pi code** to run your own device
 * download our **models** and training scripts
 * download our pre-processed **data** to train your own models
-* more coming soon - we are constantly building, shipping, and improving!
 
 More coming soon - we are constantly building, shipping, and improving!
