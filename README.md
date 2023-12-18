@@ -1,5 +1,5 @@
+![OVLogo](https://github.com/rkdune/openvisionproject/assets/96749303/5615fc5c-3f83-468e-9a4b-a07cc15c6fab)
 # OpenVisionProject
-
 ⚠️ this repo is in progress as we are centralizing multiple codebases and files
 
 ## Our Purpose
