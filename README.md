@@ -1,4 +1,4 @@
-![OVLogo](https://github.com/rkdune/openvisionproject/assets/96749303/5615fc5c-3f83-468e-9a4b-a07cc15c6fab)
+
 # OpenVisionProject
 ⚠️ this repo is in progress as we are centralizing multiple codebases and files
 
@@ -14,3 +14,5 @@ Building a vision of a blindness-free world using the power of technology.
 * download our pre-processed **data** to train your own models
 
 More coming soon - we are constantly building, shipping, and improving!
+
+![OVLogo](https://github.com/rkdune/openvisionproject/assets/96749303/5615fc5c-3f83-468e-9a4b-a07cc15c6fab)
