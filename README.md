@@ -15,4 +15,4 @@ Building a vision of a blindness-free world using the power of technology.
 
 More coming soon - we are constantly building, shipping, and improving!
 
-![OVLogo](https://github.com/rkdune/openvisionproject/assets/96749303/5615fc5c-3f83-468e-9a4b-a07cc15c6fab)
+![Logo](https://github.com/rkdune/openvisionproject/assets/96749303/b8982dc4-a4ad-455a-84b8-d3a44ed01b02)
